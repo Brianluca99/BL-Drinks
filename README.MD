@@ -4,7 +4,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat
 
- [Clique aqui para acessar](https://brianluca99.github.io/BLDrinks/)
+ [Clique aqui para acessar](https://brianluca99.github.io/BL-Drinks/)
 
 ## Tecnologias
 
